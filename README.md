@@ -3,3 +3,6 @@ Assignment: **Refactoring** existing code (improving it without changing what it
 
 Result: I refactored HTML code to meet the standards above. 
 
+<img src="./assets/images/screen-shot-1.png" width="200px">
+<img src="./assets/images/screen-shot-2.png" width="200px">
+<img src="./assets/images/screen-shot-3.png" width="200px">
